@@ -58,13 +58,30 @@ Currently seeking opportunities in **Germany** to contribute to innovative engin
 
 ### Featured Projects
 
+**AI & Computer Vision**
+
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**AI Object Detection**](https://github.com/theYsnS/ai-object-detection) | Real-time object detection system for security surveillance | YOLOv8, OpenCV, Python |
-| [**Face Recognition Security**](https://github.com/theYsnS/face-recognition-security) | AI-powered face recognition with REST API for access control | DeepFace, FastAPI, SQLite |
-| [**BIST100 Stock Predictor**](https://github.com/theYsnS/bist100-stock-predictor) | LSTM deep learning model for stock index prediction | TensorFlow, Keras, yfinance |
-| [**Network Security Toolkit**](https://github.com/theYsnS/network-security-toolkit) | Network security analysis and penetration testing tools | Scapy, Socket, Threading |
-| [**Earthquake Rescue API**](https://github.com/theYsnS/earthquake-rescue-api) | IoT-integrated rescue coordination system (TUBITAK) | FastAPI, MQTT, Docker |
+| [**AI Object Detection**](https://github.com/theYsnS/ai-object-detection) | Real-time object detection for security surveillance | YOLOv8, OpenCV |
+| [**Face Recognition Security**](https://github.com/theYsnS/face-recognition-security) | Face recognition with REST API for access control | DeepFace, FastAPI |
+| [**Deepfake Detector**](https://github.com/theYsnS/deepfake-detector) | CNN-based deepfake detection with Grad-CAM explainability | EfficientNet, TensorFlow |
+| [**License Plate Recognition**](https://github.com/theYsnS/license-plate-recognition) | Real-time ANPR with YOLOv8 + EasyOCR | YOLOv8, EasyOCR |
+| [**Smart City Traffic AI**](https://github.com/theYsnS/smart-city-traffic-ai) | Traffic analysis with congestion prediction | YOLOv8, ARIMA |
+
+**Cybersecurity & Networking**
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Network Security Toolkit**](https://github.com/theYsnS/network-security-toolkit) | Network security analysis and penetration testing | Scapy, Socket |
+| [**Log Anomaly Detector**](https://github.com/theYsnS/log-anomaly-detector) | ML-powered SIEM log anomaly detection | Isolation Forest, sklearn |
+| [**Drone Defense Simulator**](https://github.com/theYsnS/drone-defense-simulator) | Counter-UAS defense with radar and Kalman tracking | NumPy, PyGame |
+
+**Backend & IoT**
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Earthquake Rescue API**](https://github.com/theYsnS/earthquake-rescue-api) | IoT rescue coordination system (TUBITAK) | FastAPI, MQTT, Docker |
+| [**BIST100 Stock Predictor**](https://github.com/theYsnS/bist100-stock-predictor) | LSTM model for stock index prediction | TensorFlow, Keras |
 
 ---
 
